@@ -2,7 +2,7 @@ Flappy Bird 🎮
 
 Oyuna daha kısa yoldan ulaşmak için aşağıdaki linke tıklayabilirsiniz.
 
-https://github.com/elif4444/FlappyBird/releases/download/v1.0.0/FlappyBird.zip
+https://github.com/elifnurgunay/FlappyBird/releases/download/v1.0.0/FlappyBird.zip
 
 Klasik Flappy Bird oyununu C# ve Windows Forms kullanarak geliştirdim. Oyunun amacı, kuşu boruların arasından geçirerek en yüksek skoru elde etmektir.
 
